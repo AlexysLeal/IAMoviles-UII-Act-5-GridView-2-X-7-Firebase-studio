@@ -1,5 +1,6 @@
 # myapp
-prompt
+PROMPT
+
 Interfaz de usuario de una aplicación móvil estilo Netflix con tema oscuro (Dark Mode). En la parte superior, un AppBar de color negro sólido con el texto centralizado en color rojo vibrante: 'NETFLIX EALG 0624 6'. El cuerpo de la aplicación consiste en un GridView estrictamente organizado en 2 columnas y 7 filas, mostrando un total de 14 pósters de películas extraídos de un repositorio de GitHub.
 A new Flutter project.
 <img width="240" height="411" alt="image" src="https://github.com/user-attachments/assets/3c99b1f8-551d-4ae3-b865-4eb455a73e0d" />
